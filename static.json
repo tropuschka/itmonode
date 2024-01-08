@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "udachin"
+      "X-Author": "udachin",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
